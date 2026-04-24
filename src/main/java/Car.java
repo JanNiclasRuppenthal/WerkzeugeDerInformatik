@@ -3,6 +3,7 @@ public class Car
     private String color;
     private String manufacturer;
     private int doors;
+    private String horn;
 
     public Car(String color, String manufacturer, int doors)
     {
@@ -25,4 +26,6 @@ public class Car
     {
         return doors;
     }
+
+    public String getHorn() {return horn;}
 }
