@@ -10,3 +10,4 @@ public class Main {
         factory.buildCar(car1);
     }
 }
+//kommentar 1
